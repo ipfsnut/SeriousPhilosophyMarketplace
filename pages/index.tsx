@@ -63,8 +63,8 @@ const Home: NextPage = () => {
                       style={{
                         borderRadius: 16,
                         // Fit the image to the container
-                        width: "800px",
-                        height: "800px",
+                        width: "90%",
+                        height: "90%",
                       }}
                     />
                     <h2 className={styles.nameContainer}>
