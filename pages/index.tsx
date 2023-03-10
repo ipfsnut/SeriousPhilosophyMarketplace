@@ -33,7 +33,7 @@ const Home: NextPage = () => {
               PageDAO
             </a>
           </b>{" "}
-          w/ thirdweb + Next.JS to list your ERC721 and ERC1155 tokens for auction or for direct sale.
+          w/ thirdweb + Next.JS to list your Serious Philosophy tokens for auction or for direct sale.
         </p>
 
         <hr className={styles.divider} />
